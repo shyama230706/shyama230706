@@ -45,8 +45,6 @@
 |---------|-------------|-------|
 | [PapLex AI](https://github.com/shyama230706/paplex-ai) | Production RAG document assistant — 6 formats, 8 languages, LLaMA 3.3 70B | LangChain, FAISS, Groq, Streamlit |
 | [Multilingual BERT](https://github.com/shyama230706/Multilingual-Sentiment-Analysis-BERT) | IEEE published sentiment analysis across 3+ languages on 10,000+ posts | BERT, HuggingFace, Scikit-learn |
-| [Student Performance Prediction](https://github.com/shyama230706/student-performance-prediction) | ML model predicting student outcomes with feature engineering | Python, Scikit-learn, Seaborn |
-| [Streamify Clone](https://github.com/shyama230706/streamify-clone) | Fully responsive video streaming platform clone | React, JavaScript, CSS |
 
 ---
 
