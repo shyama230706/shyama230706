@@ -50,13 +50,9 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyama230706&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyama230706&layout=compact&theme=default&hide_border=true" width="40%"/>
-</p>
-
----
+## GitHub Stats
 
 <p align="center">
-  <i>Open to internships and entry-level roles in Data Science, ML Engineering & GenAI Development</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=shyama230706&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyama230706&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
